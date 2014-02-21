@@ -1,0 +1,15 @@
+http://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch
+
+http://www.lingulo.com/wp-content/uploads/2013/04/html5-structure.jpg
+
+http://www.lingulo.com/tutorial-content/html5/
+
+reset.css
+
+Prefix Free
+
+SlideJS
+
+Respond.js
+
+Modernizr.js
